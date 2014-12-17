@@ -3,4 +3,5 @@
 	username: "tooluser",
 	email: "joshua@nowhereville.org",
 	password: "not-sure-how-this-integrates-with-dans-security-mechanism"
+	photo-url: "http://www.amazonaws.com/..../dork.jpg"  // optional
 }

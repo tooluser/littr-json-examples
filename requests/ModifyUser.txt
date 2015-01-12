@@ -1,0 +1,6 @@
+{
+	id: "some-unique-id",
+	username: "tooluser",  // optional
+	email: "joshua@nowhereville.org", //optional
+	photo-url: "http://www.amazonaws.com/..../dork.jpg"  // optional
+}

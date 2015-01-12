@@ -1,0 +1,8 @@
+{
+	success: "true" or "false"
+	error: "Email exists" // if sucess == false
+	id: "some-udid-zzzzzzzzzzzzzzzz",
+	username: "tooluser",
+	email: "joshua@nowhereville.org",
+	photo_url: "http://s3.something.somewhere",
+}

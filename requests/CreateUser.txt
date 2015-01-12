@@ -1,7 +1,7 @@
 {
-	id: "some-unique-id",
-	username: "tooluser",
-	email: "joshua@nowhereville.org",
+	id: "some-unique-id",  // optional
+	username: "tooluser",  // optional
+	email: "joshua@nowhereville.org", //optional
 	password: "not-sure-how-this-integrates-with-dans-security-mechanism"
 	photo-url: "http://www.amazonaws.com/..../dork.jpg"  // optional
 }
